@@ -1,0 +1,12 @@
+.design_btn{
+    padding: 10px 20px;
+    color:Blue;
+    font-size: large;
+    background-color: cornsilk;
+    border: none;
+    border-radius: 10px;
+}
+.design_btn:hover{
+    background-color: white;
+    color:green;
+}
